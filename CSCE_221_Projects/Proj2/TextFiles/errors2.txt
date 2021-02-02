@@ -1,0 +1,1 @@
+errors1.txt are empty i.e. there are no errors redirected with the corresponding input and commands files

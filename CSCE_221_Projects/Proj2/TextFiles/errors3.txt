@@ -1,0 +1,12 @@
+
+Invalid Command Exception: MOVE is not a valid command
+
+Invalid Command Exception: PREFECT is not a valid command
+
+Item Not Found Exception: There does not exist an nth element in the BST.
+
+Node Not Found Exception: BST does not contain element 10
+
+Invalid Command Exception: RESIDUES is not a valid command
+
+NULL Argument Exception: No median value for a tree of zero size.

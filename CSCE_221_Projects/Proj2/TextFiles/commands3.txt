@@ -1,0 +1,22 @@
+# PRINT 2 PERFECT
+# # COMPLETE
+MOVE 1
+#PRINT 2
+PREFECT
+
+# Should print all possible errors so you know what strings to use
+NTH 1
+NTH 5
+MEDIAN
+RANK 17
+RANK 10
+PRINT 5
+RESIDUES
+RESIDUALS
+REMOVE 1
+REMOVE 17
+REMOVE 42
+MEDIAN
+
+
+

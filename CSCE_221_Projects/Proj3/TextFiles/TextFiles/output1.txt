@@ -1,0 +1,78 @@
+Building hashed splay...
+This tree starts with Node [word=Asterisks, frequency=1] and has 22 nodes.
+This tree starts with Node [word=backticks, frequency=1] and has 12 nodes.
+This tree starts with Node [word=code, frequency=1] and has 18 nodes.
+This tree starts with Node [word=Double, frequency=1] and has 16 nodes.
+This tree starts with Node [word=emphasis, frequency=1] and has 8 nodes.
+This tree starts with Node [word=for, frequency=7] and has 14 nodes.
+This tree starts with Node [word=goes, frequency=1] and has 4 nodes.
+This tree starts with Node [word=httpdaringfireballnetprojectsmarkdownsyntax, frequency=1] and has 11 nodes.
+This tree starts with Node [word=in, frequency=9] and has 16 nodes.
+This tree starts with Node [word=jpeg, frequency=1] and has 3 nodes.
+This tree starts has no nodes.
+This tree starts with Node [word=link, frequency=2] and has 12 nodes.
+This tree starts with Node [word=Markdown, frequency=5] and has 11 nodes.
+This tree starts with Node [word=notation, frequency=1] and has 10 nodes.
+This tree starts with Node [word=of, frequency=10] and has 12 nodes.
+This tree starts with Node [word=php, frequency=2] and has 17 nodes.
+This tree starts with Node [word=question, frequency=2] and has 2 nodes.
+This tree starts with Node [word=readme, frequency=1] and has 7 nodes.
+This tree starts with Node [word=strong, frequency=1] and has 33 nodes.
+This tree starts with Node [word=told, frequency=1] and has 30 nodes.
+This tree starts with Node [word=up, frequency=3] and has 13 nodes.
+This tree starts with Node [word=version, frequency=8] and has 3 nodes.
+This tree starts with Node [word=what, frequency=1] and has 15 nodes.
+This tree starts has no nodes.
+This tree starts with Node [word=Your, frequency=1] and has 5 nodes.
+This tree starts has no nodes.
+Node [word=Tags, frequency=2]
+Node [word=Tested, frequency=2]
+Node [word=This, frequency=7]
+Node [word=Thus, frequency=1]
+Node [word=Titles, frequency=1]
+Node [word=tag, frequency=8]
+Node [word=tags, frequency=2]
+Node [word=tagsreadmetxt, frequency=1]
+Node [word=tagsscreenshot-png, frequency=1]
+Node [word=take, frequency=1]
+Node [word=taken, frequency=1]
+Node [word=templates, frequency=1]
+Node [word=test, frequency=1]
+Node [word=than, frequency=2]
+Node [word=that, frequency=15]
+Node [word=that'll, frequency=1]
+Node [word=that's, frequency=1]
+Node [word=the, frequency=49]
+Node [word=then, frequency=1]
+Node [word=thing, frequency=2]
+Node [word=third, frequency=1]
+Node [word=this, frequency=4]
+Node [word=those, frequency=1]
+Node [word=through, frequency=1]
+Node [word=to, frequency=17]
+Node [word=told, frequency=1]
+Node [word=top, frequency=1]
+Node [word=trunk, frequency=8]
+Node [word=trunk's, frequency=1]
+Node [word=trunkreadmetxt, frequency=1]
+This tree has had 164 splays.
+Node [word=For, frequency=2]
+Node [word=Frequently, frequency=1]
+Node [word=favorite, frequency=1]
+Node [word=feature, frequency=2]
+Node [word=few, frequency=1]
+Node [word=file, frequency=2]
+Node [word=fit, frequency=1]
+Node [word=fixes, frequency=1]
+Node [word=following, frequency=1]
+Node [word=foo, frequency=2]
+Node [word=for, frequency=7]
+Node [word=format, frequency=1]
+Node [word=from, frequency=3]
+Node [word=full, frequency=1]
+This tree has had 38 splays.
+Empty tree
+This tree has had 0 splays.
+Printing the results of nodes that start with 'The'
+Node [word=the, frequency=49]
+Node [word=then, frequency=1]

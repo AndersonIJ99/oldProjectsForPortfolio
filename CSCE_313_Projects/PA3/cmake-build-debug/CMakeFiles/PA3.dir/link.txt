@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/PA3.dir/FIFOreqchannel.cpp.o CMakeFiles/PA3.dir/client.cpp.o CMakeFiles/PA3.dir/server.cpp.o CMakeFiles/PA3.dir/MQreqchannel.cpp.o CMakeFiles/PA3.dir/SHMreqchannel.cpp.o  -o PA3 
